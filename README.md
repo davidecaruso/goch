@@ -3,7 +3,7 @@
 
 ## Usage
 ```bash
-go run goch https://coursehunters.net/course/example
+go run goch.go https://coursehunters.net/course/example
 ```
 
 ## Author
